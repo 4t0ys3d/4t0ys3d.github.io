@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About this blog:
-
-This blog is a collection of posts relating to penetration testing, red teaming and bug bounty hunting. You will also find CTF write-ups for various events and general musings about myself.
+4t0ys3d (pronounced a-to-zed) started his cyber security "research" career in December 2019. Since then, he has obtained the Offensive Security Certified Profession (OSCP) certification.
