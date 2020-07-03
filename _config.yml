@@ -18,8 +18,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is a collection of posts relating to penetration testing, red teaming and bug bounty hunting.   You will also find CTF write-ups for various events and general musings about myself.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anthonysnead
+twitter_username:  anthonysnead
 github_username:  4t0ys3d
+linkedin:  anthonysnead
 
 # Build settings
 markdown: kramdown
